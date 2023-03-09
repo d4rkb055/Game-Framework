@@ -19,7 +19,7 @@ I used UE's simple programming language.
 # Useful Websites
 
 Useful Resource for Creating Game:
-* [How to Create a Game in UE5 | Unreal Sensei]https://www.youtube.com/watch?v=ITCWa3oLNAQ
+* [How to Create a Game in UE5 | Unreal Sensei](https://www.youtube.com/watch?v=ITCWa3oLNAQ)
 
 
 # Future Work
